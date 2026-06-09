@@ -170,3 +170,4 @@ pip install pyspark   # Big Data (notebook 04)
 | Data Engineer & EDA Specialist | 01, 02, 03, 04 | Dataset Description, Preprocessing, EDA, Big Data |
 | Classical ML Specialist | 05, 06 | Naive Bayes, SVM, Association Rules |
 | Deep Learning & Evaluation Lead | 07, 08 | Neural Networks, Comparative Evaluation, Conclusions |
+
